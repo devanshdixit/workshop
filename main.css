@@ -1,0 +1,35 @@
+
+/* Responsive navigation menu (for mobile devices) */
+@media screen and (max-width: 900px) {
+  .linkshare7{
+    padding-left: 0;
+  }
+  .linkshare:hover {
+
+    color: red;
+      }
+}
+  .linkshare:hover {
+
+    color: blue;
+      }
+  .linkshare7{padding: 30px;
+    padding-left: 170px;} a {
+      text-decoration: none;
+      font-size: 70px;
+      color: black;
+    }
+
+    .navlogo{
+
+      margin-left: 10%;
+    }
+
+    .navlink{
+      float: right;
+      margin-right: 20%;
+    }
+    html {
+      scroll-behavior: smooth;
+    }
+    
